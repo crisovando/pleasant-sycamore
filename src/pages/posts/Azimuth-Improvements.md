@@ -1,8 +1,6 @@
 ---
-title: Release Notes - Azimuth Improvements and New Integrations
-subtitle: >-
-  Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
-  massa primis. 
+title: Romi infeliz
+subtitle: no terminamos mas
 date: '2017-03-26'
 thumb_img_path: images/1_thumb.jpg
 excerpt: >-
